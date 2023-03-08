@@ -1,2 +1,12 @@
-header {background-color: #aqua;
-color}
+header {background-color: rgb(86, 1, 107);
+color: black;
+display: flex;
+justify-content: space-around;}
+.imagens.cabecalho {width: 55%;}
+li{
+    display: inline-block;
+}
+h1 {
+    margin: 0 70px;
+    padding: 90px 0;
+}
