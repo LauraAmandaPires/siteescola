@@ -37,5 +37,14 @@ h1
 }
 .estudante-titulo {
     text-align: center;
-    padding: 20;
+    padding: 20px;
+    font-size: 30px;
+}
+.estudante-icone {
+    width: 30px;
+
+}
+
+.estudante-div {
+    text-align: center;
 }
